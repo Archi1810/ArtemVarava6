@@ -52,12 +52,12 @@
      text-decoration: underline;
  }
  
- .main_logo {
+ .main__logo {
     font-size: 80px;
     font-family: bad script;
  }
 
-.main_text {
+.main__text {
     padding-top: 8%;
     font-size: 35px;
     font-family: bad script;
@@ -70,7 +70,7 @@ a {
      padding: 0.4% 2%;
  }
 
- .open_website {
+ .open__website {
      padding-top: 2%;
      font-size: 1rem;
      text-align: center;
@@ -126,7 +126,7 @@ a {
     background: #fbfafa;
 }
 
- .content_text {
+ .content__text {
     width: 80%;
     margin-top: 2%;
     margin-left: 5%;
@@ -135,7 +135,7 @@ a {
     text-align: justify;
  }
 
-.fixed_link {
+.fixed__link {
     position: fixed;
     top: 40%;
     right: 2%;
